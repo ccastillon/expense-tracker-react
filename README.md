@@ -1,3 +1,9 @@
+# Expense Tracker (React)
+
+This is from a code tutorial about React Hooks and Context API
+
+Here is part 2 where we take it a step further and build a backend API with Node/Express/MongoDB - https://www.youtube.com/watch?v=KyWaXA_NvT0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
